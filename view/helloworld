@@ -1,3 +1,15 @@
 <html>
-Hello World!
+<head>
+  <title>Animaux préférés</title>
+</head>
+<body>
+  <h1>Animaux préférés</h1>
+    <p>Mes animaux préférés sont:</p>
+      <ol>
+        <li><strong>Chien</strong></li>
+        <li>Chat</li>
+        <li>Souris</li>
+      </ol>
+</body>
+
 </html>
